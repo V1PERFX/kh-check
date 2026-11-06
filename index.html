@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kingdom Hearts — Checklists</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;font-family:"Nunito Sans",system-ui,sans-serif;color:#eef2ff;
+  background:
+    radial-gradient(1px 1px at 12% 18%,#fff 50%,transparent 51%),
+    radial-gradient(1px 1px at 72% 8%,#fff 50%,transparent 51%),
+    radial-gradient(1.5px 1.5px at 38% 42%,#cfe0ff 50%,transparent 51%),
+    radial-gradient(1px 1px at 88% 36%,#fff 50%,transparent 51%),
+    radial-gradient(1.5px 1.5px at 62% 66%,#ffeebb 50%,transparent 51%),
+    radial-gradient(ellipse at 50% -10%,#2b2a7a 0%,transparent 55%),
+    linear-gradient(180deg,#0e0d33,#04040f 75%);
+  background-size:600px 600px,700px 700px,500px 500px,800px 800px,900px 900px,100% 100%,100% 100%;background-attachment:fixed}
+header{text-align:center;padding:56px 20px 26px}
+header small{font-family:Cinzel,serif;letter-spacing:.5em;font-size:12px;color:#a9b3e0}
+header h1{margin:10px 0 6px;font-family:Cinzel,serif;font-weight:800;font-size:clamp(30px,5vw,52px);letter-spacing:.06em;
+  background:linear-gradient(180deg,#fff 0%,#ffe9a8 45%,#c08a2c 100%);-webkit-background-clip:text;background-clip:text;color:transparent;
+  filter:drop-shadow(0 3px 10px rgba(0,0,0,.6))}
+header p{margin:0;color:#a9b3e0}
+.total{max-width:520px;margin:22px auto 0}
+.total .lbl{display:flex;justify-content:space-between;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#a9b3e0;margin-bottom:6px}
+.total b{color:#f3cf6a;letter-spacing:0}
+.gauge{height:10px;border-radius:8px;background:#060a24;border:1px solid rgba(255,255,255,.16);overflow:hidden}
+.gauge i{display:block;height:100%;border-radius:8px;background:linear-gradient(180deg,rgba(255,255,255,.5),rgba(255,255,255,0) 55%),linear-gradient(90deg,color-mix(in srgb,var(--c) 45%,#000),var(--c));box-shadow:0 0 10px var(--c);transition:width .4s}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:22px;max-width:1300px;margin:0 auto;padding:20px 24px 50px}
+.card{display:block;text-decoration:none;color:inherit;border-radius:16px;overflow:hidden;background:rgba(14,16,50,.8);border:1px solid rgba(255,255,255,.12);
+  transition:transform .18s,box-shadow .18s,border-color .18s}
+.card:hover{transform:translateY(-4px);border-color:var(--c);box-shadow:0 18px 40px -18px var(--c)}
+.card .cover{aspect-ratio:16/5;background:#000 center/cover no-repeat}
+.card .info{padding:14px 18px 16px}
+.card .row{display:flex;align-items:baseline;gap:10px;margin-bottom:10px}
+.card h2{margin:0;font-family:Cinzel,serif;font-size:18px;letter-spacing:.04em}
+.card .pct{margin-left:auto;font-weight:800;color:var(--c);font-variant-numeric:tabular-nums}
+.card .sub{font-size:12px;color:#a9b3e0;margin-top:8px}
+footer{text-align:center;color:#7d86b3;font-size:12px;padding:0 20px 30px}
+footer a{color:#c9b06a}
+@media (max-width:480px){.grid{grid-template-columns:1fr;padding:12px}}
+</style>
+</head>
+<body>
+<header>
+  <small>KINGDOM HEARTS</small>
+  <h1>Guides & Checklists</h1>
+  <p>Pick a game. Progress for each one is saved in this browser.</p>
+  <div class="total" style="--c:#f3cf6a">
+    <div class="lbl"><span>Series progress</span><b id="tot">—</b></div>
+    <div class="gauge"><i id="totBar" style="width:0"></i></div>
+  </div>
+</header>
+<div class="grid" id="grid"></div>
+<footer>Data from the original guides by <a href="https://xenodusk.carrd.co/" target="_blank" rel="noopener">xenodusk</a>.</footer>
+<script>
+const GAMES = [{"slug": "kh1-fm", "name": "Kingdom Hearts Final Mix", "short": "KH I · Final Mix", "storageKey": "kh-kh1fm-checklist-v1", "accent": "#f2c94c"}, {"slug": "recom", "name": "Kingdom Hearts Re:Chain of Memories", "short": "Re:Chain of Memories", "storageKey": "kh-recom-checklist-v1", "accent": "#b8892c"}, {"slug": "kh2-fm", "name": "Kingdom Hearts II Final Mix", "short": "KH II · Final Mix", "storageKey": "kh-kh2fm-checklist-v1", "accent": "#dfe7f5"}, {"slug": "bbs-fm", "name": "Kingdom Hearts Birth by Sleep Final Mix", "short": "Birth by Sleep · Final Mix", "storageKey": "khbbsfm-checklist-v1", "accent": "#f3cf6a"}, {"slug": "ddd", "name": "Kingdom Hearts Dream Drop Distance", "short": "Dream Drop Distance", "storageKey": "kh-ddd-checklist-v1", "accent": "#ff5fd2"}, {"slug": "kh02", "name": "Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage-", "short": "0.2 · A fragmentary passage", "storageKey": "kh-kh02-checklist-v1", "accent": "#59c3ff"}, {"slug": "kh3", "name": "Kingdom Hearts III Re Mind", "short": "KH III · Re Mind", "storageKey": "kh-kh3-checklist-v1", "accent": "#ffcf4a"}];
+const hub = (()=>{ try{ return JSON.parse(localStorage.getItem("kh-hub-progress"))||{}; }catch(e){ return {}; } })();
+let D=0,T=0;
+document.getElementById("grid").innerHTML = GAMES.map(g=>{
+  const p = hub[g.slug];
+  const pct = p && p.t ? p.d*100/p.t : 0;
+  if(p){ D+=p.d; T+=p.t; }
+  const sub = p ? `${p.d} / ${p.t} items` + (p.at?` · updated ${new Date(p.at).toLocaleDateString("en-US")}`:"") : "Open the checklist to calculate progress";
+  return `<a class="card" href="${g.slug}/index.html" style="--c:${g.accent}">
+    <div class="cover" style="background-image:url('covers/${g.slug}.webp')"></div>
+    <div class="info">
+      <div class="row"><h2>${g.short}</h2><span class="pct">${p?pct.toFixed(1)+"%":"—"}</span></div>
+      <div class="gauge"><i style="width:${pct}%"></i></div>
+      <div class="sub">${sub}</div>
+    </div></a>`;
+}).join("");
+document.getElementById("tot").textContent = T ? `${D} / ${T} · ${(D*100/T).toFixed(1)}%` : "—";
+document.getElementById("totBar").style.width = (T? D*100/T : 0)+"%";
+</script>
+</body>
+</html>

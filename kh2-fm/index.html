@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kingdom Hearts II Final Mix — Checklist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared/base.css">
+<style>
+:root{--font-title:"Cinzel",serif;}
+:root{--bg0:#050507;--bg1:#191b24;--panel:rgba(22,24,34,.88);--thead:#14161f;--input:#0c0d13;--btn:#232634;
+  --line:rgba(210,220,240,.16);--line2:rgba(210,220,240,.07);--muted:#9aa3b8;--gold:#e8edf7;--accent:#dfe7f5;--accent2:#6d7c96;
+  --cmd-bg:linear-gradient(180deg,#2b3a6e,#151d3d);--cmd-on-text:#0c0d13}
+body{background:
+  radial-gradient(ellipse at 50% -20%,rgba(160,175,210,.25),transparent 55%),
+  radial-gradient(circle at 92% 8%,rgba(255,250,220,.14),transparent 18%),
+  repeating-linear-gradient(90deg,rgba(255,255,255,.015) 0 1px,transparent 1px 80px),
+  linear-gradient(180deg,var(--bg1),var(--bg0) 70%);background-attachment:fixed}
+.cmd-title{background:linear-gradient(90deg,#5a6478,transparent)}
+.phead h2,.logo h1{letter-spacing:.08em}
+</style>
+</head>
+<body>
+<script>
+window.KH_CONFIG = {
+ "slug": "kh2-fm",
+ "name": "Kingdom Hearts II Final Mix",
+ "storageKey": "kh-kh2fm-checklist-v1",
+ "groups": [
+  {
+   "id": "journey",
+   "name": "Journey",
+   "faceIndex": "Achievements",
+   "accent": "#dfe7f5",
+   "accent2": "#6d7c96"
+  },
+  {
+   "id": "challenges",
+   "name": "Challenges",
+   "faceIndex": "Mushroom XIII",
+   "accent": "#ff6262",
+   "accent2": "#8f1c1c"
+  },
+  {
+   "id": "synthesis",
+   "name": "Synthesis & Gummi",
+   "faceIndex": "Synthesis Recipes",
+   "accent": "#5fb3ff",
+   "accent2": "#1d5a9c"
+  }
+ ],
+ "tips": {
+  "faceIndex": "More Tips",
+  "accent": "#f2c94c",
+  "accent2": "#9c6a14"
+ },
+ "logoText": {
+  "tag": "FINAL MIX · CHECKLIST"
+ }
+};
+</script>
+<script src="data.js"></script>
+<script src="../shared/checklist.js"></script>
+</body>
+</html>

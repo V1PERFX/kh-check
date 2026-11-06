@@ -1,0 +1,16 @@
+# Fim de linha: LF em tudo, no repositório E na árvore de trabalho, tanto no
+# Windows quanto no Mac. O site é estático e servido direto dos arquivos do
+# repo, então assim os bytes são sempre os mesmos em qualquer máquina e o git
+# não acusa o arquivo inteiro como alterado só por causa de CRLF.
+* text=auto eol=lf
+
+# Binários: nunca converter fim de linha (reforça a autodetecção do text=auto)
+*.webp  binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.woff2 binary
+*.woff  binary
+*.ttf   binary

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kingdom Hearts III Re Mind — Checklist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared/base.css">
+<style>
+:root{--font-title:"Cinzel",serif;}
+:root{--bg0:#071a33;--bg1:#1765a8;--panel:rgba(8,30,62,.84);--thead:#0a2448;--input:#061631;--btn:#123a6e;
+  --line:rgba(150,210,255,.22);--line2:rgba(150,210,255,.08);--muted:#a3c3e6;--gold:#ffcf4a;--accent:#ffcf4a;--accent2:#c48a12;
+  --cmd-bg:linear-gradient(180deg,#1f5aa0,#0d2e5e)}
+body{background:
+  radial-gradient(ellipse at 30% -10%,rgba(255,255,255,.35),transparent 40%),
+  radial-gradient(ellipse at 80% 0%,rgba(255,220,140,.25),transparent 35%),
+  linear-gradient(180deg,var(--bg1) 0%,#0d3a6e 35%,var(--bg0) 75%);background-attachment:fixed}
+.cmd li button{clip-path:polygon(0 0,calc(100% - 10px) 0,100% 50%,calc(100% - 10px) 100%,0 100%)}
+</style>
+</head>
+<body>
+<script>
+window.KH_CONFIG = {
+ "slug": "kh3",
+ "name": "Kingdom Hearts III Re Mind",
+ "storageKey": "kh-kh3-checklist-v1",
+ "groups": [
+  {
+   "id": "journey",
+   "name": "Journey",
+   "faceIndex": "Character Files",
+   "accent": "#ffcf4a",
+   "accent2": "#c48a12"
+  },
+  {
+   "id": "journal",
+   "name": "Journal",
+   "faceIndex": "Glossary",
+   "accent": "#5fd0ff",
+   "accent2": "#1e6fa8"
+  },
+  {
+   "id": "synthesis",
+   "name": "Synthesis",
+   "faceIndex": "Synthesis",
+   "accent": "#7be38b",
+   "accent2": "#23843a"
+  },
+  {
+   "id": "gummi",
+   "name": "Gummi",
+   "faceIndex": "Gummi Battles",
+   "accent": "#ff8f5a",
+   "accent2": "#a8401a"
+  }
+ ],
+ "tips": {
+  "faceIndex": "Lucky Emblems",
+  "accent": "#e7a6ff",
+  "accent2": "#7a3a9c"
+ },
+ "logoText": {
+  "tag": "RE MIND · CHECKLIST"
+ }
+};
+</script>
+<script src="data.js"></script>
+<script src="../shared/checklist.js"></script>
+</body>
+</html>

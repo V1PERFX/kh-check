@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kingdom Hearts Re:Chain of Memories — Checklist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared/base.css">
+<style>
+:root{--font-title:"Cormorant Garamond",serif;}
+:root{--bg0:#e9e4f4;--bg1:#fbfaff;--text:#2a2140;--muted:#6f6390;--panel:rgba(255,255,255,.86);--panel2:#fff;
+  --thead:#efe9fa;--input:#f6f3fc;--btn:#fff;--line:rgba(90,70,140,.2);--line2:rgba(90,70,140,.09);--hover:rgba(123,82,201,.06);
+  --gold:#b8892c;--accent:#b8892c;--accent2:#7a5714;--cmd-bg:linear-gradient(180deg,#ffffff,#ece6f8);--cmd-text:#2a2140;--cmd-on-text:#fff;
+  --sec-icon-bg:transparent;--radius:6px}
+body{background:
+  repeating-linear-gradient(45deg,rgba(120,100,180,.05) 0 2px,transparent 2px 46px),
+  repeating-linear-gradient(-45deg,rgba(120,100,180,.05) 0 2px,transparent 2px 46px),
+  radial-gradient(ellipse at 50% -10%,#fff,transparent 60%),
+  linear-gradient(180deg,var(--bg1),var(--bg0));background-attachment:fixed}
+header{border-bottom:2px solid rgba(184,137,44,.4)}
+header .banner{opacity:.25}
+.logo img{filter:drop-shadow(0 2px 6px rgba(60,40,110,.45)) brightness(.55) contrast(1.4)}
+.cmd-title{color:#fff}
+/* menu em forma de cartas */
+.cmd li button{clip-path:none;border-radius:6px;border:1px solid rgba(90,70,140,.25);box-shadow:0 2px 0 rgba(90,70,140,.15);border-left:5px solid var(--accent)}
+.cmd li button.on{transform:translateX(6px) rotate(-1deg)}
+.char{background:#fff}
+.panel{box-shadow:0 18px 40px -22px rgba(60,40,110,.45)}
+.box{border-radius:3px}
+.note{background:rgba(123,82,201,.06)}
+</style>
+</head>
+<body>
+<script>
+window.KH_CONFIG = {
+ "slug": "recom",
+ "name": "Kingdom Hearts Re:Chain of Memories",
+ "storageKey": "kh-recom-checklist-v1",
+ "groups": [
+  {
+   "id": "general",
+   "name": "General",
+   "faceIndex": "Achievements",
+   "accent": "#b8892c",
+   "accent2": "#7a5714"
+  },
+  {
+   "id": "sora",
+   "name": "Sora",
+   "faceIndex": "Sora's Sleights",
+   "accent": "#d1453b",
+   "accent2": "#8a1f1a"
+  },
+  {
+   "id": "riku",
+   "name": "Riku",
+   "faceIndex": "More Tips",
+   "accent": "#7b52c9",
+   "accent2": "#3f2380"
+  }
+ ],
+ "tips": {
+  "faceIndex": "Card Index",
+  "accent": "#3f8fc9",
+  "accent2": "#1d4f80"
+ },
+ "logoText": {
+  "tag": "RE:CHAIN OF MEMORIES · CHECKLIST"
+ }
+};
+</script>
+<script src="data.js"></script>
+<script src="../shared/checklist.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+# backups locais das exportações de progresso (botão "Export progress")
+data-games/
+
+# lixo de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# configuração do Claude Code específica desta máquina
+.claude/settings.local.json
