@@ -495,7 +495,7 @@ window.KH_DATA = {
       "Xehanort's Letter",
       "Obtained during Ventus's story"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "secret-reports:5",
@@ -503,7 +503,7 @@ window.KH_DATA = {
       "Xehanort's Report I",
       "Chest in the Launch Deck (Deep Space) with Ventus"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "secret-reports:6",
@@ -567,7 +567,7 @@ window.KH_DATA = {
       "Xehanort's Report IX",
       "Obtained during Ventus's story"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "secret-reports:14",
@@ -591,7 +591,7 @@ window.KH_DATA = {
       "Xehanort's Report XII",
       "Chest in the Seat of War (Keyblade Graveyard) with Ventus"
      ],
-     "done": true
+     "done": false
     }
    ]
   },
@@ -618,7 +618,7 @@ window.KH_DATA = {
       "Waterside",
       "Destroy at least 30 fireballs"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "unversed-missions:5",
@@ -1938,7 +1938,7 @@ window.KH_DATA = {
       "-",
       "Equipped by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:22",
@@ -1947,7 +1947,7 @@ window.KH_DATA = {
       "Finish",
       "Activate Firestorm 8 times"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:23",
@@ -1956,7 +1956,7 @@ window.KH_DATA = {
       "Finish",
       "Earn 2000 CP"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:24",
@@ -1965,7 +1965,7 @@ window.KH_DATA = {
       "Finish",
       "Collect 1000 munny"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:25",
@@ -1974,7 +1974,7 @@ window.KH_DATA = {
       "Air Flair 1",
       "Activate Thunderbolt 12 times"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:26",
@@ -1983,7 +1983,7 @@ window.KH_DATA = {
       "Air Flair 1",
       "Earn 4000 CP"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:27",
@@ -1992,7 +1992,7 @@ window.KH_DATA = {
       "Air Flair 1,\nGold Rush",
       "Take 7000 steps"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:28",
@@ -2001,7 +2001,7 @@ window.KH_DATA = {
       "Gold Rush",
       "Collect 1400 munny"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:29",
@@ -2010,7 +2010,7 @@ window.KH_DATA = {
       "Air Flair 2",
       "Take 4500 steps"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:30",
@@ -2019,7 +2019,7 @@ window.KH_DATA = {
       "Air Flair 2",
       "Survive lethal damage 5 times with Second Chance and/or Once More"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:31",
@@ -2028,7 +2028,7 @@ window.KH_DATA = {
       "Twisted Hours,\nSurprise! 1",
       "Collect 5200 munny"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:32",
@@ -2037,7 +2037,7 @@ window.KH_DATA = {
       "Air Flair 3",
       "Take 7000 steps"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:33",
@@ -2046,7 +2046,7 @@ window.KH_DATA = {
       "Air Flair 3",
       "Earn 6400 CP"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:34",
@@ -2055,7 +2055,7 @@ window.KH_DATA = {
       "Surprise! 2",
       "Collect 7000 munny"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "finish-commands:35",
@@ -2064,7 +2064,7 @@ window.KH_DATA = {
       "Air Flair 4",
       "Defeat 800 enemies"
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Aqua",
@@ -2447,7 +2447,7 @@ window.KH_DATA = {
       "Mine Entrance",
       "Near the Moogle Shop."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:28",
@@ -2457,7 +2457,7 @@ window.KH_DATA = {
       "Cottage Clearing",
       "Above Doc and Grumpy (High Jump required)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:29",
@@ -2467,7 +2467,7 @@ window.KH_DATA = {
       "Mousehole",
       "Below a platform with cheese on a spiderweb (Air Slide required)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:30",
@@ -2477,7 +2477,7 @@ window.KH_DATA = {
       "Cinderella's Room",
       "In front of the mirror (use the ball of yarn to reach the cabinet)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:31",
@@ -2487,7 +2487,7 @@ window.KH_DATA = {
       "Hall",
       "Access the Hall from the passage in the lower level of the Dungeon, and take the purple teleport (it shifts between purple and yellow), then follow the path towards the sticker."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:32",
@@ -2497,7 +2497,7 @@ window.KH_DATA = {
       "Audience Chamber",
       "Navigate through the labyrinth."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:33",
@@ -2507,7 +2507,7 @@ window.KH_DATA = {
       "Gardens",
       "Near the big blue door that leads to the Reactor area."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:34",
@@ -2517,7 +2517,7 @@ window.KH_DATA = {
       "Front Doors",
       "Near the doors to the castle. High Jump required."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:35",
@@ -2527,7 +2527,7 @@ window.KH_DATA = {
       "Fountain Court",
       "Between the fountain area and the stairs to Castle Town. Go to the upper platforms and use Air Slide."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:36",
@@ -2537,7 +2537,7 @@ window.KH_DATA = {
       "Raceway",
       "Drop down to the right side from the platform you get to after going through Pete's Rec Room."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:37",
@@ -2547,7 +2547,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Use Air Slide or Glide from the hand platforms."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:38",
@@ -2557,7 +2557,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "Use Pete's Pinball Machine to reach the higher area to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:39",
@@ -2567,7 +2567,7 @@ window.KH_DATA = {
       "Coliseum Gates",
       "Near the leaderboards (High Jump required)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:40",
@@ -2577,7 +2577,7 @@ window.KH_DATA = {
       "Ship Hub",
       "In center of the room (disable gravity or use High Jump)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:41",
@@ -2587,7 +2587,7 @@ window.KH_DATA = {
       "Launch Deck",
       "Disable gravity and use the platforms to reach it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:42",
@@ -2597,7 +2597,7 @@ window.KH_DATA = {
       "Rainbow Falls: Base",
       "Near the center of the room (High Jump and Air Slide/Glide required)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:43",
@@ -2607,7 +2607,7 @@ window.KH_DATA = {
       "Mermaid Lagoon",
       "Above water, near the border of the area (Glide required)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:44",
@@ -2617,7 +2617,7 @@ window.KH_DATA = {
       "Mysterious Tower",
       "Near the border of the area."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:45",
@@ -2627,7 +2627,7 @@ window.KH_DATA = {
       "Seat of War",
       "In the alcove with two treasure chests."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "stickers:46",
@@ -2637,7 +2637,7 @@ window.KH_DATA = {
       "Twister Trench",
       "From the entrance, you will find it if you stick to the right wall."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Aqua",
@@ -9280,7 +9280,7 @@ window.KH_DATA = {
       "Quick Blitz",
       "Received by default, Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:7",
@@ -9288,7 +9288,7 @@ window.KH_DATA = {
       "Blitz",
       "Command Shop, Command Melding (ex: Quick Blitz + Slot Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:8",
@@ -9296,7 +9296,7 @@ window.KH_DATA = {
       "Sliding Dash",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:9",
@@ -9304,7 +9304,7 @@ window.KH_DATA = {
       "Fire Dash",
       "Command Melding (ex: Sliding Dash + Fire)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:10",
@@ -9312,7 +9312,7 @@ window.KH_DATA = {
       "Sonic Blade",
       "Command Melding (ex: Air Slide + Blitz)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:11",
@@ -9320,7 +9320,7 @@ window.KH_DATA = {
       "Strike Raid",
       "Received by default, Command Melding (ex: Sliding Dash + Quick Blitz)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:12",
@@ -9328,7 +9328,7 @@ window.KH_DATA = {
       "Freeze Raid",
       "Command Melding (ex: Strike Raid + Blizzara)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:13",
@@ -9336,7 +9336,7 @@ window.KH_DATA = {
       "Treasure Raid",
       "Command Melding (ex: Strike Raid + Slot Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:14",
@@ -9344,7 +9344,7 @@ window.KH_DATA = {
       "Spark Raid",
       "Command Melding (ex: Freeze Raid + Magnega)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:15",
@@ -9352,7 +9352,7 @@ window.KH_DATA = {
       "Wind Raid",
       "Command Melding (ex: Freeze Raid + Aeroga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:16",
@@ -9360,7 +9360,7 @@ window.KH_DATA = {
       "Fire Surge",
       "Command Shop, Command Melding (ex: Fire Strike + Fira)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:17",
@@ -9368,7 +9368,7 @@ window.KH_DATA = {
       "Thunder Surge",
       "Command Melding (ex: Thundara + Fire Dash)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:18",
@@ -9376,7 +9376,7 @@ window.KH_DATA = {
       "Aerial Slam",
       "Command Melding (ex: Aero + Fire Surge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:19",
@@ -9384,7 +9384,7 @@ window.KH_DATA = {
       "Ars Arcanum",
       "Command Melding (ex: Aerial Slam + Blitz)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:20",
@@ -9392,7 +9392,7 @@ window.KH_DATA = {
       "Time Splicer",
       "Command Melding (ex: Aerial Slam + Stopga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:21",
@@ -9400,7 +9400,7 @@ window.KH_DATA = {
       "Poison Edge",
       "Command Melding (ex: Quick Blitz + Poison)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:22",
@@ -9408,7 +9408,7 @@ window.KH_DATA = {
       "Blizzard Edge",
       "Command Shop, Command Melding (ex: Quick Blitz + Blizzard)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:23",
@@ -9416,7 +9416,7 @@ window.KH_DATA = {
       "Stun Edge",
       "Command Melding (ex: Thunder + Sliding Dash)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:24",
@@ -9424,7 +9424,7 @@ window.KH_DATA = {
       "Slot Edge",
       "Command Melding (ex: Cura + Blizzard Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:25",
@@ -9432,7 +9432,7 @@ window.KH_DATA = {
       "Fire Strike",
       "Command Melding (ex: Fire + Stun Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:26",
@@ -9440,7 +9440,7 @@ window.KH_DATA = {
       "Confusion Strike",
       "Command Shop, Command Melding (ex: Quick Blitz + Confuse)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:27",
@@ -9448,7 +9448,7 @@ window.KH_DATA = {
       "Binding Strike",
       "Command Shop, Command Melding (ex: Quick Blitz + Bind)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:28",
@@ -9456,7 +9456,7 @@ window.KH_DATA = {
       "Tornado Strike",
       "Command Melding (ex: Confusion Strike + Aeroga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:29",
@@ -9464,7 +9464,7 @@ window.KH_DATA = {
       "Magnet Spiral",
       "Command Melding (ex: Binding Strike + Magnega)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:30",
@@ -9472,7 +9472,7 @@ window.KH_DATA = {
       "Salvation",
       "Command Melding (Wind Raid + Curaga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:31",
@@ -9480,7 +9480,7 @@ window.KH_DATA = {
       "Collision Magnet",
       "Command Melding (ex: Quick Blitz + Magnera)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:32",
@@ -9488,7 +9488,7 @@ window.KH_DATA = {
       "Break Time",
       "Command Melding (ex: Curaga + Renewal Block)"
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Battle Commands - Magic",
@@ -9500,7 +9500,7 @@ window.KH_DATA = {
       "Fire",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:35",
@@ -9508,7 +9508,7 @@ window.KH_DATA = {
       "Fira",
       "Command Melding (ex: Fire + Fire)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:36",
@@ -9516,7 +9516,7 @@ window.KH_DATA = {
       "Firaga",
       "Command Melding (ex: Fire + Fira)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:37",
@@ -9524,7 +9524,7 @@ window.KH_DATA = {
       "Fission Firaga",
       "Command Melding (ex: Firaga + Aerora)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:38",
@@ -9532,7 +9532,7 @@ window.KH_DATA = {
       "Crawling Fire",
       "Command Melding (ex: Firaga + Slow)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:39",
@@ -9540,7 +9540,7 @@ window.KH_DATA = {
       "Blizzard",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:40",
@@ -9548,7 +9548,7 @@ window.KH_DATA = {
       "Blizzara",
       "Command Melding (ex: Blizzard + Blizzard)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:41",
@@ -9556,7 +9556,7 @@ window.KH_DATA = {
       "Blizzaga",
       "Command Melding (ex: Blizzard + Blizzara)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:42",
@@ -9564,7 +9564,7 @@ window.KH_DATA = {
       "Thunder",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:43",
@@ -9572,7 +9572,7 @@ window.KH_DATA = {
       "Thundara",
       "Command Melding (ex: Thunder + Thunder)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:44",
@@ -9580,7 +9580,7 @@ window.KH_DATA = {
       "Thundaga",
       "Command Melding (ex: Thunder + Thundara)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:45",
@@ -9588,7 +9588,7 @@ window.KH_DATA = {
       "Cure",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:46",
@@ -9596,7 +9596,7 @@ window.KH_DATA = {
       "Cura",
       "Command Melding (ex: Cure + Cure)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:47",
@@ -9604,7 +9604,7 @@ window.KH_DATA = {
       "Curaga",
       "Command Melding (ex: Cure + Cura)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:48",
@@ -9612,7 +9612,7 @@ window.KH_DATA = {
       "Esuna",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:49",
@@ -9620,7 +9620,7 @@ window.KH_DATA = {
       "Mine Shield",
       "Command Shop, Command Melding (ex: Fira + Zero Gravity)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:50",
@@ -9628,7 +9628,7 @@ window.KH_DATA = {
       "Mine Square",
       "Command Shop, Command Melding (ex: Fira + Stop)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:51",
@@ -9636,7 +9636,7 @@ window.KH_DATA = {
       "Zero Gravity",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:52",
@@ -9644,7 +9644,7 @@ window.KH_DATA = {
       "Zero Gravira",
       "Command Melding (ex: Zero Gravity + Zero Gravity)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:53",
@@ -9652,7 +9652,7 @@ window.KH_DATA = {
       "Zero Graviga",
       "Command Melding (ex: Zero Gravity + Zero Gravira)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:54",
@@ -9660,7 +9660,7 @@ window.KH_DATA = {
       "Magnet",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:55",
@@ -9668,7 +9668,7 @@ window.KH_DATA = {
       "Magnera",
       "Command Melding (ex: Magnet + Magnet)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:56",
@@ -9676,7 +9676,7 @@ window.KH_DATA = {
       "Magnega",
       "Command Melding (ex: Magnet + Magnera)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:57",
@@ -9684,7 +9684,7 @@ window.KH_DATA = {
       "Aero",
       "Received by default, Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:58",
@@ -9692,7 +9692,7 @@ window.KH_DATA = {
       "Aerora",
       "Command Melding (ex: Aero + Aero)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:59",
@@ -9700,7 +9700,7 @@ window.KH_DATA = {
       "Aeroga",
       "Command Melding (ex: Aero + Aerora)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:60",
@@ -9708,7 +9708,7 @@ window.KH_DATA = {
       "Faith",
       "Command Melding (Wind Raid + Break Time)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:61",
@@ -9716,7 +9716,7 @@ window.KH_DATA = {
       "Deep Freeze",
       "Command Melding (ex: Blizzaga + Binding Strike)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:62",
@@ -9724,7 +9724,7 @@ window.KH_DATA = {
       "Mega Flare",
       "Command Melding (Fission Firaga + Crawling Fire)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:63",
@@ -9732,7 +9732,7 @@ window.KH_DATA = {
       "Tornado",
       "Command Melding (ex: Magnega + Aeroga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:64",
@@ -9740,7 +9740,7 @@ window.KH_DATA = {
       "Transcendence",
       "Command Melding (ex: Zero Graviga + Magnet Spiral)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:65",
@@ -9748,7 +9748,7 @@ window.KH_DATA = {
       "Mini",
       "Command Melding (ex: Bind + Magnega)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:66",
@@ -9756,7 +9756,7 @@ window.KH_DATA = {
       "Blackout",
       "Command Shop, Command Melding (ex: Confuse + Zero Gravity)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:67",
@@ -9764,7 +9764,7 @@ window.KH_DATA = {
       "Ignite",
       "Command Shop, Command Melding (ex: Bind + Fire)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:68",
@@ -9772,7 +9772,7 @@ window.KH_DATA = {
       "Confuse",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:69",
@@ -9780,7 +9780,7 @@ window.KH_DATA = {
       "Bind",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:70",
@@ -9788,7 +9788,7 @@ window.KH_DATA = {
       "Poison",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:71",
@@ -9796,7 +9796,7 @@ window.KH_DATA = {
       "Slow",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:72",
@@ -9804,7 +9804,7 @@ window.KH_DATA = {
       "Stop",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:73",
@@ -9812,7 +9812,7 @@ window.KH_DATA = {
       "Stopra",
       "Command Melding (ex: Stop + Stop)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:74",
@@ -9820,7 +9820,7 @@ window.KH_DATA = {
       "Stopga",
       "Command Melding (ex: Stop + Stopra)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:75",
@@ -9828,7 +9828,7 @@ window.KH_DATA = {
       "Sleep",
       "Command Shop"
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Battle Commands - Items",
@@ -9840,7 +9840,7 @@ window.KH_DATA = {
       "Potion",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:78",
@@ -9848,7 +9848,7 @@ window.KH_DATA = {
       "Hi-Potion",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:79",
@@ -9856,7 +9856,7 @@ window.KH_DATA = {
       "Mega-Potion",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:80",
@@ -9864,7 +9864,7 @@ window.KH_DATA = {
       "Ether",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:81",
@@ -9872,7 +9872,7 @@ window.KH_DATA = {
       "Mega-Ether",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:82",
@@ -9880,7 +9880,7 @@ window.KH_DATA = {
       "Panacea",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:83",
@@ -9888,7 +9888,7 @@ window.KH_DATA = {
       "Elixir",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:84",
@@ -9896,7 +9896,7 @@ window.KH_DATA = {
       "Megalixir",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:85",
@@ -9904,7 +9904,7 @@ window.KH_DATA = {
       "Balloon Letter",
       "Treasure Chests"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:86",
@@ -10004,7 +10004,7 @@ window.KH_DATA = {
       "Confetti",
       "Attack the mailbox in the Main Plaza (Disney Town), Medal Shop (Mirage Arena)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:99",
@@ -10012,7 +10012,7 @@ window.KH_DATA = {
       "Fireworks",
       "Sticker Album, Medal Shop (Mirage Arena)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:100",
@@ -10104,7 +10104,7 @@ window.KH_DATA = {
       "Jump",
       "Received by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:112",
@@ -10112,7 +10112,7 @@ window.KH_DATA = {
       "High Jump",
       "Story progression"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:113",
@@ -10120,7 +10120,7 @@ window.KH_DATA = {
       "Dodge Roll",
       "Received by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:114",
@@ -10128,7 +10128,7 @@ window.KH_DATA = {
       "Thunder Roll",
       "Command Melding (ex: Dodge Roll + Thundaga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:115",
@@ -10136,7 +10136,7 @@ window.KH_DATA = {
       "Air Slide",
       "Story progression"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:116",
@@ -10144,7 +10144,7 @@ window.KH_DATA = {
       "Ice Slide",
       "Command Melding (ex: Air Slide + Blizzard Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:117",
@@ -10152,7 +10152,7 @@ window.KH_DATA = {
       "Reversal",
       "Story progression"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:118",
@@ -10160,7 +10160,7 @@ window.KH_DATA = {
       "Glide",
       "Story progression"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:119",
@@ -10168,7 +10168,7 @@ window.KH_DATA = {
       "Superglide",
       "Treasure Chest in Disney Town"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:120",
@@ -10176,7 +10176,7 @@ window.KH_DATA = {
       "Fire Glide",
       "Command Melding (ex: Glide + Firaga)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:121",
@@ -10184,7 +10184,7 @@ window.KH_DATA = {
       "Homing Slide",
       "Command Melding (ex: Sliding Dash + Magnera)"
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Action Commands - Defense",
@@ -10196,7 +10196,7 @@ window.KH_DATA = {
       "Block",
       "Received by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:124",
@@ -10204,7 +10204,7 @@ window.KH_DATA = {
       "Renewal Block",
       "Command Melding (ex: Block + Esuna)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:125",
@@ -10220,7 +10220,7 @@ window.KH_DATA = {
       "Stun Block",
       "Medal Shop, Command Melding (ex: Block + Stun Edge)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:127",
@@ -10240,7 +10240,7 @@ window.KH_DATA = {
       "Counter Rush",
       "Command Shop, Treasure Chest in Radiant Garden"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:130",
@@ -10248,7 +10248,7 @@ window.KH_DATA = {
       "Reversal Slash",
       "Command Shop, Treasure Chest in Disney Town"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:131",
@@ -10256,7 +10256,7 @@ window.KH_DATA = {
       "Payback Raid",
       "Command Shop, Command Melding (ex: Sliding Dash + Strike Raid)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:132",
@@ -10264,7 +10264,7 @@ window.KH_DATA = {
       "Aerial Recovery",
       "Medal Shop (Mirage Arena)"
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Shotlock Commands",
@@ -10284,7 +10284,7 @@ window.KH_DATA = {
       "Flame Salvo",
       "Received by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:136",
@@ -10308,7 +10308,7 @@ window.KH_DATA = {
       "Thunderstorm",
       "Treasure Chest in Castle of Dreams"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:139",
@@ -10324,7 +10324,7 @@ window.KH_DATA = {
       "Pulse Bomb",
       "Treasure Chest in Deep Space"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:141",
@@ -10340,7 +10340,7 @@ window.KH_DATA = {
       "Absolute Zero",
       "Treasure Chest in Radiant Garden"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:143",
@@ -10368,7 +10368,7 @@ window.KH_DATA = {
       "Finish (Aqua)",
       "Forge a D-Link with Aqua (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:147",
@@ -10376,7 +10376,7 @@ window.KH_DATA = {
       "Finish (Terra)",
       "Forge a D-Link with Terra (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:148",
@@ -10384,7 +10384,7 @@ window.KH_DATA = {
       "Lightcharge",
       "Forge a D-Link with Mickey (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:149",
@@ -10392,7 +10392,7 @@ window.KH_DATA = {
       "Donald Flare",
       "Forge a D-Link with Donald Duck (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:150",
@@ -10400,7 +10400,7 @@ window.KH_DATA = {
       "Goofy Spin",
       "Forge a D-Link with Goofy (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:151",
@@ -10408,7 +10408,7 @@ window.KH_DATA = {
       "Sweet Memory",
       "Forge a D-Link with Snow White (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:152",
@@ -10416,7 +10416,7 @@ window.KH_DATA = {
       "Dream Sparkle",
       "Forge a D-Link with Cinderella (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:153",
@@ -10424,7 +10424,7 @@ window.KH_DATA = {
       "Hero's Entrance",
       "Forge a D-Link with Zack (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:154",
@@ -10432,7 +10432,7 @@ window.KH_DATA = {
       "Random Beam",
       "Forge a D-Link with Experiment 626 (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:155",
@@ -10440,7 +10440,7 @@ window.KH_DATA = {
       "Swordbill",
       "Forge a D-Link with Peter Pan (story progression)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:156",
@@ -10456,7 +10456,7 @@ window.KH_DATA = {
       "Magic Volley",
       "Collect 2 symbol marks while using Aqua's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:158",
@@ -10464,7 +10464,7 @@ window.KH_DATA = {
       "Landbreaker",
       "Collect 2 symbol marks while using Terra's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:159",
@@ -10472,7 +10472,7 @@ window.KH_DATA = {
       "Faithcharge",
       "Collect 2 symbol marks while using Mickey's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:160",
@@ -10480,7 +10480,7 @@ window.KH_DATA = {
       "Cosmic Donald",
       "Collect 2 symbol marks while using Donald Duck's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:161",
@@ -10488,7 +10488,7 @@ window.KH_DATA = {
       "Goofy Turbo",
       "Collect 2 symbol marks while using Goofy's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:162",
@@ -10496,7 +10496,7 @@ window.KH_DATA = {
       "Sweet Seven",
       "Collect 2 symbol marks while using Snow White's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:163",
@@ -10504,7 +10504,7 @@ window.KH_DATA = {
       "Miracle Dance",
       "Collect 2 symbol marks while using Cinderella's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:164",
@@ -10512,7 +10512,7 @@ window.KH_DATA = {
       "Hero's Pride",
       "Collect 2 symbol marks while using Zack's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:165",
@@ -10520,7 +10520,7 @@ window.KH_DATA = {
       "Ohana Beat",
       "Collect 2 symbol marks while using Experiment 626's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:166",
@@ -10528,7 +10528,7 @@ window.KH_DATA = {
       "Barrel Roll",
       "Collect 2 symbol marks while using Peter Pan's D-Link"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:167",
@@ -10548,7 +10548,7 @@ window.KH_DATA = {
       "Finish",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:170",
@@ -10556,7 +10556,7 @@ window.KH_DATA = {
       "Air Flair 1",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:171",
@@ -10564,7 +10564,7 @@ window.KH_DATA = {
       "Heat Slash 1",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:172",
@@ -10572,7 +10572,7 @@ window.KH_DATA = {
       "Gold Rush",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:173",
@@ -10580,7 +10580,7 @@ window.KH_DATA = {
       "Air Flair 2",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:174",
@@ -10588,7 +10588,7 @@ window.KH_DATA = {
       "Ramuh's Judgment",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:175",
@@ -10596,7 +10596,7 @@ window.KH_DATA = {
       "Twisted Hours",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:176",
@@ -10612,7 +10612,7 @@ window.KH_DATA = {
       "Air Flair 3",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:178",
@@ -10620,7 +10620,7 @@ window.KH_DATA = {
       "Heal Strike",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:179",
@@ -10636,7 +10636,7 @@ window.KH_DATA = {
       "Air Flair 4",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:181",
@@ -10644,7 +10644,7 @@ window.KH_DATA = {
       "Explosion",
       "See Finish Commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:182",
@@ -10668,7 +10668,7 @@ window.KH_DATA = {
       "Fever Pitch",
       "Unlock this command style (story progression) and activate it by using Attack commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:185",
@@ -10676,7 +10676,7 @@ window.KH_DATA = {
       "Firestorm",
       "Unlock this command style (story progression) and activate it by using Fire commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:186",
@@ -10684,7 +10684,7 @@ window.KH_DATA = {
       "Diamond Dust",
       "Unlock this command style (story progression) and activate it by using Blizzard commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:187",
@@ -10692,7 +10692,7 @@ window.KH_DATA = {
       "Thunderbolt",
       "Unlock this command style (story progression) and activate it by using Thunder commands"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:188",
@@ -10700,7 +10700,7 @@ window.KH_DATA = {
       "Cyclone",
       "Unlock this command style (story progression) and activate it by using Aero, Raid and Strike commands while a Level-1 command style is active"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:189",
@@ -10708,7 +10708,7 @@ window.KH_DATA = {
       "Sky Climber",
       "Unlock this command style (complete \"Sinister Sentinel\" at the Mirage Arena) and activate it by using Gravity, Status and more commands while a Level-1 command style is active"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:190",
@@ -10716,7 +10716,7 @@ window.KH_DATA = {
       "Rhythm Mixer",
       "Unlock this command style (receive 140 points in the Sticker Album) and activate it by using Thunder, Mine and Strike commands while a Level-1 command style is active"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:191",
@@ -10724,7 +10724,7 @@ window.KH_DATA = {
       "Wingblade",
       "Unlock this command style (story progression) and activate it by using Reprisal, Edge and more commands while a Level-1 command style is active"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:192",
@@ -10744,7 +10744,7 @@ window.KH_DATA = {
       "Treasure Magnet",
       "Command Melding with a Hungry Crystal (ex: Thunder + Thunder + Hungry Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:195",
@@ -10752,7 +10752,7 @@ window.KH_DATA = {
       "HP Prize Plus",
       "Command Melding with a Hungry Crystal (ex: Fire + Fire + Hungry Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:196",
@@ -10768,7 +10768,7 @@ window.KH_DATA = {
       "Lucky Strike",
       "Command Melding with an Abounding Crystal (ex: Cure + Cure + Abounding Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:198",
@@ -10776,7 +10776,7 @@ window.KH_DATA = {
       "HP Boost",
       "Command Melding with a Soothing Crystal (ex: Fire + Fire + Soothing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:199",
@@ -10792,7 +10792,7 @@ window.KH_DATA = {
       "Fire Boost",
       "Command Melding with a Shimmering Crystal (ex: Fire + Fire + Shimmering Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:201",
@@ -10800,7 +10800,7 @@ window.KH_DATA = {
       "Blizzard Boost",
       "Command Melding with a Shimmering Crystal (ex: Blizzard + Blizzard + Shimmering Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:202",
@@ -10808,7 +10808,7 @@ window.KH_DATA = {
       "Thunder Boost",
       "Command Melding with a Shimmering Crystal (ex: Thunder + Thunder + Shimmering Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:203",
@@ -10816,7 +10816,7 @@ window.KH_DATA = {
       "Cure Boost",
       "Command Melding with a Shimmering Crystal (ex: Cure + Cure + Shimmering Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:204",
@@ -10824,7 +10824,7 @@ window.KH_DATA = {
       "Item Boost",
       "Command Melding with a Soothing Crystal (ex: Cure + Cure + Soothing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:205",
@@ -10832,7 +10832,7 @@ window.KH_DATA = {
       "Attack Haste",
       "Command Melding with a Fleeting Crystal (ex: Fire + Sliding Dash + Fleeting Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:206",
@@ -10840,7 +10840,7 @@ window.KH_DATA = {
       "Magic Haste",
       "Command Melding with a Fleeting Crystal (ex: Fire + Fire + Fleeting Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:207",
@@ -10848,7 +10848,7 @@ window.KH_DATA = {
       "Combo F Boost",
       "Command Melding with a Pulsing Crystal (ex: Cure + Cure + Pulsing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:208",
@@ -10856,7 +10856,7 @@ window.KH_DATA = {
       "Finish Boost",
       "Command Melding with a Pulsing Crystal (ex: Sliding Dash + Thunder + Pulsing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:209",
@@ -10864,7 +10864,7 @@ window.KH_DATA = {
       "Combo Plus",
       "Command Melding with a Wellspring Crystal (ex: Fire + Sliding Dash + Wellspring Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:210",
@@ -10872,7 +10872,7 @@ window.KH_DATA = {
       "Air Combo Plus",
       "Command Melding with a Wellspring Crystal (ex: Blizzard + Strike Raid + Wellspring Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:211",
@@ -10904,7 +10904,7 @@ window.KH_DATA = {
       "Dark Screen",
       "Command Melding with a Shimmering Crystal (ex: Cure + Aero + Shimmering Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:215",
@@ -10912,7 +10912,7 @@ window.KH_DATA = {
       "Reload Boost",
       "Command Melding with a Fleeting Crystal (ex: Cura + Cura + Fleeting Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:216",
@@ -10928,7 +10928,7 @@ window.KH_DATA = {
       "EXP Chance",
       "Command Melding with an Abounding Crystal (ex: Fira + Fira + Abounding Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:218",
@@ -10936,7 +10936,7 @@ window.KH_DATA = {
       "EXP Walker",
       "Command Melding with an Abounding Crystal (ex: Quick Blitz + Blizzara + Abounding Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:219",
@@ -10944,7 +10944,7 @@ window.KH_DATA = {
       "Damage Syphon",
       "Command Melding with a Soothing Crystal (ex: Fira + Fira + Soothing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:220",
@@ -10952,7 +10952,7 @@ window.KH_DATA = {
       "Second Chance",
       "Command Melding with a Pulsing Crystal (ex: Cura + Cura + Pulsing Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:221",
@@ -10960,7 +10960,7 @@ window.KH_DATA = {
       "Once More",
       "Command Melding with a Wellspring Crystal (ex: Fira + Fira + Wellspring Crystal)"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:222",
@@ -10968,7 +10968,7 @@ window.KH_DATA = {
       "Scan",
       "Received by default"
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "commands-ventus:223",
@@ -10976,7 +10976,7 @@ window.KH_DATA = {
       "Leaf Bracer",
       "Command Melding with a Pulsing Crystal (ex: Fire + Fire + Pulsing Crystal)"
      ],
-     "done": true
+     "done": false
     }
    ]
   },
@@ -11005,7 +11005,7 @@ window.KH_DATA = {
       "Mountain Path",
       "Available only during the tutorial. Does not appear in the Reports (and does not count towards any achievement)."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Dwarf Woodlands",
@@ -11018,7 +11018,7 @@ window.KH_DATA = {
       "The Mine",
       "From the entrance, follow the path to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:9",
@@ -11027,7 +11027,7 @@ window.KH_DATA = {
       "The Mine",
       "Right below the Mini chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:10",
@@ -11036,7 +11036,7 @@ window.KH_DATA = {
       "The Mine",
       "From the entrance, go straight and climb up the platforms until you see the chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:11",
@@ -11045,7 +11045,7 @@ window.KH_DATA = {
       "Flower Glade",
       "Crossing the bridge across the entrance from the Deep Woods."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:12",
@@ -11054,7 +11054,7 @@ window.KH_DATA = {
       "Deep Woods",
       "Near the passage to the Flower Glade."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:13",
@@ -11063,7 +11063,7 @@ window.KH_DATA = {
       "Deep Woods",
       "In front of the passage to the Cottage Clearing."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:14",
@@ -11072,7 +11072,7 @@ window.KH_DATA = {
       "Deep Woods",
       "Near the passage to the Cottage Clearing."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:15",
@@ -11081,7 +11081,7 @@ window.KH_DATA = {
       "Cottage Clearing",
       "Behind the cottage."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:16",
@@ -11090,7 +11090,7 @@ window.KH_DATA = {
       "Cottage Clearing",
       "Follow the creek to a hidden corner."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:17",
@@ -11099,7 +11099,7 @@ window.KH_DATA = {
       "Cottage Clearing",
       "Big chest to the right of the cottage."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:18",
@@ -11108,7 +11108,7 @@ window.KH_DATA = {
       "The Cottage",
       "Big chest inside the cottage."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:19",
@@ -11117,7 +11117,7 @@ window.KH_DATA = {
       "Mountain Trail",
       "Near the passage to the Cottage Clearing."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:20",
@@ -11126,7 +11126,7 @@ window.KH_DATA = {
       "Mountain Trail",
       "Right next to the passage to The Mine."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:21",
@@ -11135,7 +11135,7 @@ window.KH_DATA = {
       "Mountain Trail",
       "In the upper level."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Castle of Dreams",
@@ -11148,7 +11148,7 @@ window.KH_DATA = {
       "Cinderella's Room",
       "Big chest next to Jaq, below the window."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:24",
@@ -11157,7 +11157,7 @@ window.KH_DATA = {
       "Cinderella's Room",
       "On top of a the nightstand, next to the bed. Ride the ball of yarn to reach it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:25",
@@ -11166,7 +11166,7 @@ window.KH_DATA = {
       "Cinderella's Room",
       "Big chest on top of a furniture with a candle. Ride the ball of yarn to reach it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:26",
@@ -11175,7 +11175,7 @@ window.KH_DATA = {
       "Mousehole",
       "From the entrance to Cinderella's Room, drop down and you will see it near the passage to the Wardrobe Room."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:27",
@@ -11184,7 +11184,7 @@ window.KH_DATA = {
       "Mousehole",
       "From the Ether chest, use Air Slide or Sliding Dash to reach the upper ledge across the corridor."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:28",
@@ -11193,7 +11193,7 @@ window.KH_DATA = {
       "Mousehole",
       "From the Potion chest below, get to the upper level using the fork and follow the upper level path (the one without a box of matches) until you can go down to ledge with a fork and a chest. This is it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:29",
@@ -11202,7 +11202,7 @@ window.KH_DATA = {
       "Mousehole",
       "Near the green barrel with a passage to the Wardrobe Room."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:30",
@@ -11211,7 +11211,7 @@ window.KH_DATA = {
       "Mousehole",
       "Go through the passage in the Wardrobe Room next to a column. Once in the Mousehole, go straight ahead until the end and you will find it in a corner above."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:31",
@@ -11220,7 +11220,7 @@ window.KH_DATA = {
       "Mousehole",
       "Behind the jumping fork in the area with the green barrel."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:32",
@@ -11229,7 +11229,7 @@ window.KH_DATA = {
       "Wardrobe Room",
       "From the Ether chest in the Mousehole, go through the passage and you will appear on top of a wardrobe in the Wardrobe Room. Go through the ruler and jump onto the shelf with some books."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:33",
@@ -11238,7 +11238,7 @@ window.KH_DATA = {
       "Wardrobe Room",
       "On top of a table in a corner."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:34",
@@ -11247,7 +11247,7 @@ window.KH_DATA = {
       "Wardrobe Room",
       "Below a table in the corner of the room across from the Ballon Letter chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:35",
@@ -11256,7 +11256,7 @@ window.KH_DATA = {
       "Wardrobe Room",
       "From the Zero Gravity chest, drop down carefully and land on some piled-up boxes with this chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Enchanted Dominion",
@@ -11269,7 +11269,7 @@ window.KH_DATA = {
       "Gates",
       "From the Forbidden Mountain passage, go straight and climb up to the upper level. Follow the path and go up the stairs to find 2 chests."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:38",
@@ -11278,7 +11278,7 @@ window.KH_DATA = {
       "Gates",
       "From the Maleficent's Throne passage, go straight and slightly to the right, and climb up to the upper level. Follow the path to find it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:39",
@@ -11287,7 +11287,7 @@ window.KH_DATA = {
       "Gates",
       "From the Maleficent's Throne passage, to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:40",
@@ -11296,7 +11296,7 @@ window.KH_DATA = {
       "Gates",
       "Same as Ballon Letter chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:41",
@@ -11305,7 +11305,7 @@ window.KH_DATA = {
       "Gates",
       "From the Forbidden Mountain passage, go to the left and climb up the stairs to the upper level."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:42",
@@ -11314,7 +11314,7 @@ window.KH_DATA = {
       "Maleficent's Throne",
       "From the Gates passage, across the room, to the right of the passage to the Hall."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:43",
@@ -11323,7 +11323,7 @@ window.KH_DATA = {
       "Dungeon",
       "In the upper level, near a passage to the Hall."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:44",
@@ -11332,7 +11332,7 @@ window.KH_DATA = {
       "Dungeon",
       "In the upper level, in a corner."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:45",
@@ -11341,7 +11341,7 @@ window.KH_DATA = {
       "Hall",
       "From the Hi-Potion chest below, take the green teleport. Then, follow the path straight ahead and you will find this."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:46",
@@ -11350,7 +11350,7 @@ window.KH_DATA = {
       "Hall",
       "From the Hi-Potion chest below, take the green teleport. Then, follow the path hugging the wall to the right and you will find this."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:47",
@@ -11359,7 +11359,7 @@ window.KH_DATA = {
       "Hall",
       "Access the Hall from the passage in the lower level of the Dungeon (up the stairs), and take the purple teleport (it shifts between purple and yellow), then follow the path towards the chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:48",
@@ -11368,7 +11368,7 @@ window.KH_DATA = {
       "Hall",
       "From the Fleeting Crystal chest in the Dungeon, take the passage nearby. You will find the chest to the right after getting to the Hall."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:49",
@@ -11377,7 +11377,7 @@ window.KH_DATA = {
       "Forbidden Mountain",
       "From the Waterside passage, to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:50",
@@ -11386,7 +11386,7 @@ window.KH_DATA = {
       "Waterside",
       "Go through the gap in the main area and you will find it in a hill, in the path leading to Maleficent's castle."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:51",
@@ -11395,7 +11395,7 @@ window.KH_DATA = {
       "Forest Clearing",
       "Big chest up the hill to the left from the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:52",
@@ -11404,7 +11404,7 @@ window.KH_DATA = {
       "Audience Chamber",
       "From the gate, facing the throne, go the right and you will find it in a corner."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:53",
@@ -11413,7 +11413,7 @@ window.KH_DATA = {
       "Audience Chamber",
       "To the left of the throne."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:54",
@@ -11422,7 +11422,7 @@ window.KH_DATA = {
       "Hallway",
       "In the same corridor as Aurora's room, in front of a window."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:55",
@@ -11431,7 +11431,7 @@ window.KH_DATA = {
       "Tower Room",
       "In front of the window."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Radiant Garden",
@@ -11444,7 +11444,7 @@ window.KH_DATA = {
       "Outer Gardens",
       "Going straight forward from the bridge, hug the wall to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:58",
@@ -11453,7 +11453,7 @@ window.KH_DATA = {
       "Outer Gardens",
       "From the gates at the border of the area, you will see this chest to your left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:59",
@@ -11462,7 +11462,7 @@ window.KH_DATA = {
       "Central Square",
       "Near the passage to Castle Town."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:60",
@@ -11471,7 +11471,7 @@ window.KH_DATA = {
       "Central Square",
       "Near the stairs leading down to the Entryway."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:61",
@@ -11480,7 +11480,7 @@ window.KH_DATA = {
       "Aqueduct",
       "At the end of a corridor, before going up to the waterway."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:62",
@@ -11489,7 +11489,7 @@ window.KH_DATA = {
       "Aqueduct",
       "Behind a machine in the waterway."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:63",
@@ -11498,7 +11498,7 @@ window.KH_DATA = {
       "Aqueduct",
       "In a balcony along the waterway."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:64",
@@ -11507,7 +11507,7 @@ window.KH_DATA = {
       "Castle Town",
       "Big chest in front of Merlin's House."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:65",
@@ -11516,7 +11516,7 @@ window.KH_DATA = {
       "Fountain Court",
       "Use the fountains to reach the upmost level, and the use Air Slide or Sliding Dash to reach the isolated upper platform in the right corner."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:66",
@@ -11525,7 +11525,7 @@ window.KH_DATA = {
       "Merlin's House",
       "Big chest right next to the entrance."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:67",
@@ -11534,7 +11534,7 @@ window.KH_DATA = {
       "Gardens",
       "From the passage to Central Square, go straight hugging the wall to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:68",
@@ -11543,7 +11543,7 @@ window.KH_DATA = {
       "Gardens",
       "In a corner of the second floor, near a fountain."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:69",
@@ -11552,7 +11552,7 @@ window.KH_DATA = {
       "Gardens",
       "In the second floor, below the gate to the Reactor."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:70",
@@ -11561,7 +11561,7 @@ window.KH_DATA = {
       "Gardens",
       "After taking the steps to the third floor, go to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:71",
@@ -11570,7 +11570,7 @@ window.KH_DATA = {
       "Front Doors",
       "Near the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:72",
@@ -11579,7 +11579,7 @@ window.KH_DATA = {
       "Front Doors",
       "After going up the stairs, to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Disney Town",
@@ -11592,7 +11592,7 @@ window.KH_DATA = {
       "Main Plaza",
       "Big chest to the right of the Fruitball Court."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:75",
@@ -11601,7 +11601,7 @@ window.KH_DATA = {
       "Main Plaza",
       "Next to a popcorn machine."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:76",
@@ -11610,7 +11610,7 @@ window.KH_DATA = {
       "Raceway",
       "In the upper level, from the passage to Pete's Rec Room, Glide towards the ledge right across the area."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:77",
@@ -11619,7 +11619,7 @@ window.KH_DATA = {
       "Raceway",
       "In the third floor, below the platform with the passage to Pete's Rec Room."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:78",
@@ -11628,7 +11628,7 @@ window.KH_DATA = {
       "Raceway",
       "In the upper level, from the passage to Pete's Rec Room, to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:79",
@@ -11637,7 +11637,7 @@ window.KH_DATA = {
       "Raceway",
       "In a corner in the second floor."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:80",
@@ -11646,7 +11646,7 @@ window.KH_DATA = {
       "Raceway",
       "Below the bridge, close to the passage to the Fruitball Court."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:81",
@@ -11655,7 +11655,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Go to the upper level with the Mickey-shaped lift, jump through the gears and hands towards the left. This one is next to the passage to Pete's Rec Room."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:82",
@@ -11664,7 +11664,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Go to the upper level with the Mickey-shaped lift, jump through the gears and hands towards the right, until you reach a platform with two chests."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:83",
@@ -11673,7 +11673,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Same as the Mega-Potion chest above."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:84",
@@ -11682,7 +11682,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Across the entrance from the Main Plaza."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:85",
@@ -11691,7 +11691,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Next to the green machine."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:86",
@@ -11700,7 +11700,7 @@ window.KH_DATA = {
       "Gizmo Gallery",
       "Go up with the Mickey-shaped lift and you will find this chest on a ledge."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:87",
@@ -11709,7 +11709,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "In a ledge to the left of the pinball minigame."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:88",
@@ -11718,7 +11718,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "Same as the Panacea chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:89",
@@ -11727,7 +11727,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "Use the pinball bumpers to reach an upper level to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:90",
@@ -11736,7 +11736,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "Locked in a cell in the pinball minigame. You need to touch all four green bumpers to open it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:91",
@@ -11745,7 +11745,7 @@ window.KH_DATA = {
       "Pete's Rec Room",
       "Next to the passage to the Raceway."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Olympus Coliseum",
@@ -11758,7 +11758,7 @@ window.KH_DATA = {
       "Coliseum Gates",
       "Facing the coliseum, you will find it next to the right statue."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:94",
@@ -11767,7 +11767,7 @@ window.KH_DATA = {
       "Coliseum Gates",
       "Facing the coliseum, you will find it behind some columns next to the left statue."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:95",
@@ -11776,7 +11776,7 @@ window.KH_DATA = {
       "Coliseum Gates",
       "From the Vestibule entrance, next to the leaderboards to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:96",
@@ -11785,7 +11785,7 @@ window.KH_DATA = {
       "Vestibule",
       "Big chest in front of the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Deep Space",
@@ -11798,7 +11798,7 @@ window.KH_DATA = {
       "Durgon Transporter",
       "Next to the transporter."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:99",
@@ -11807,7 +11807,7 @@ window.KH_DATA = {
       "Ship Corridor",
       "Near the passage to the Durgon Transporter."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:100",
@@ -11816,7 +11816,7 @@ window.KH_DATA = {
       "Ship Corridor",
       "Same as the Hi-Potion chest above."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:101",
@@ -11825,7 +11825,7 @@ window.KH_DATA = {
       "Ship Corridor",
       "Along the corridor."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:102",
@@ -11834,7 +11834,7 @@ window.KH_DATA = {
       "Ship Corridor",
       "Same as the Mega-Ether chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:103",
@@ -11843,7 +11843,7 @@ window.KH_DATA = {
       "Control Room",
       "Big chest near the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:104",
@@ -11852,7 +11852,7 @@ window.KH_DATA = {
       "Ship Hub",
       "On a platform in the 2nd level."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:105",
@@ -11861,7 +11861,7 @@ window.KH_DATA = {
       "Ship Hub",
       "In the lower level (gravity must be enabled)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:106",
@@ -11870,7 +11870,7 @@ window.KH_DATA = {
       "Ship Hub",
       "On a platform in the 3rd level (gravity must be enabled)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:107",
@@ -11879,7 +11879,7 @@ window.KH_DATA = {
       "Machinery Bay",
       "Above the gravity machine (disable gravity to reach it)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:108",
@@ -11888,7 +11888,7 @@ window.KH_DATA = {
       "Machinery Bay",
       "In the upper level, on top of the platform in the middle (disable gravity to reach it)."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:109",
@@ -11897,7 +11897,7 @@ window.KH_DATA = {
       "Launch Deck",
       "Disable gravity and use the floating platforms to reach the isolated balcony with a big chest on the upper level ."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:110",
@@ -11906,7 +11906,7 @@ window.KH_DATA = {
       "Launch Deck",
       "Next to the passage to the Ship Hub."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:111",
@@ -11915,7 +11915,7 @@ window.KH_DATA = {
       "Launch Deck",
       "Across the room from the gravity machine and the Fleeting Crystal treasure chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:112",
@@ -11924,7 +11924,7 @@ window.KH_DATA = {
       "Launch Deck",
       "To the right of the gravity machine."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:113",
@@ -11933,7 +11933,7 @@ window.KH_DATA = {
       "Machinery Bay Access",
       "Near the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "Never Land",
@@ -11946,7 +11946,7 @@ window.KH_DATA = {
       "Cove",
       "Near the passage to Skull Rock: Entrance."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:116",
@@ -11955,7 +11955,7 @@ window.KH_DATA = {
       "Cove",
       "Same as the Megalixir chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:117",
@@ -11964,7 +11964,7 @@ window.KH_DATA = {
       "Cove",
       "Near the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:118",
@@ -11973,7 +11973,7 @@ window.KH_DATA = {
       "Cliff Path",
       "In the lower level, next to a slope."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:119",
@@ -11982,7 +11982,7 @@ window.KH_DATA = {
       "Cliff Path",
       "From the passage to the Cove, climb up the platform that is straight ahead and, once above, use Air Slide or Sliding Dash to reach the next upper platform."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:120",
@@ -11991,7 +11991,7 @@ window.KH_DATA = {
       "Cliff Path",
       "From the passage to the Cove, go to the right and this chest will be hidden under a rock that needs to be destroyed."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:121",
@@ -12000,7 +12000,7 @@ window.KH_DATA = {
       "Mermaid Lagoon",
       "Inside a cave you can reach by swimming in the water."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:122",
@@ -12009,7 +12009,7 @@ window.KH_DATA = {
       "Mermaid Lagoon",
       "From the upper platform mentioned in the Firaga chest above, you can use Glide to reach a passage above a palm tree, leading to an upper level in Mermaid Lagoon."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:123",
@@ -12018,7 +12018,7 @@ window.KH_DATA = {
       "Mermaid Lagoon",
       "In the border of the area, in a piece of land surrounded by water."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:124",
@@ -12027,7 +12027,7 @@ window.KH_DATA = {
       "Seacoast",
       "From the passage to the Mermaid Lagoon, to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:125",
@@ -12036,7 +12036,7 @@ window.KH_DATA = {
       "Seacoast",
       "Once you reach a bifurcation, instead of going right to Rainbow Falls: Base, go to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:126",
@@ -12045,7 +12045,7 @@ window.KH_DATA = {
       "Jungle Clearing",
       "Next to the passage to the Mermaid Lagoon."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:127",
@@ -12054,7 +12054,7 @@ window.KH_DATA = {
       "Peter's Hideout",
       "Up the stairs."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:128",
@@ -12063,7 +12063,7 @@ window.KH_DATA = {
       "Peter's Hideout",
       "Up the stairs."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:129",
@@ -12072,7 +12072,7 @@ window.KH_DATA = {
       "Gully",
       "Big chest next to the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:130",
@@ -12081,7 +12081,7 @@ window.KH_DATA = {
       "Gully",
       "In front of the save point."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:131",
@@ -12090,7 +12090,7 @@ window.KH_DATA = {
       "Rainbow Falls: Base",
       "At the border of the area."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "The Mysterious Tower",
@@ -12103,7 +12103,7 @@ window.KH_DATA = {
       "Mysterious Tower",
       "At the border of the level."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:134",
@@ -12112,7 +12112,7 @@ window.KH_DATA = {
       "Mysterious Tower",
       "From the tower entrance, go to the right."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:135",
@@ -12121,7 +12121,7 @@ window.KH_DATA = {
       "Mysterious Tower",
       "Next to the entrance."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:136",
@@ -12130,7 +12130,7 @@ window.KH_DATA = {
       "Tower Entrance",
       "Big chest below the stairs."
      ],
-     "done": true
+     "done": false
     },
     {
      "section": "The Keyblade Graveyard",
@@ -12143,7 +12143,7 @@ window.KH_DATA = {
       "Seat of War",
       "In the innermost area."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:139",
@@ -12152,7 +12152,7 @@ window.KH_DATA = {
       "Seat of War",
       "When exiting the innermost area, to the left."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:140",
@@ -12161,7 +12161,7 @@ window.KH_DATA = {
       "Seat of War",
       "Big chest close to the passage to the next area."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:141",
@@ -12170,7 +12170,7 @@ window.KH_DATA = {
       "Twister Trench",
       "In a corner of the pillar in the middle, on the opposite side from the Mega-Potion chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:142",
@@ -12179,7 +12179,7 @@ window.KH_DATA = {
       "Twister Trench",
       "When coming from Seat of War, go towards the pillar in the middle and you will soon see it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:143",
@@ -12188,7 +12188,7 @@ window.KH_DATA = {
       "Twister Trench",
       "When coming from Seat of War, hug the wall to the right and you will eventually find it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:144",
@@ -12197,7 +12197,7 @@ window.KH_DATA = {
       "Twister Trench",
       "When coming from Seat of War, hug the wall to the left and you will eventually find it."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:145",
@@ -12206,7 +12206,7 @@ window.KH_DATA = {
       "Twister Trench",
       "Near the Wind Raid chest."
      ],
-     "done": true
+     "done": false
     },
     {
      "id": "treasures-ventus:146",
@@ -12215,7 +12215,7 @@ window.KH_DATA = {
       "Seat of War",
       "Big chest in the innermost area."
      ],
-     "done": true
+     "done": false
     }
    ]
   },

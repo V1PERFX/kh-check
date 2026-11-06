@@ -43,15 +43,7 @@ let ui = Object.assign({group:GROUPS[0].id, list:{}, hide:false, collapsed:{}}, 
 ui.q = "";
 
 function safeParse(s){ try{ return JSON.parse(s)||{}; }catch(e){ return {}; } }
-function load(){ const s = safeParse(localStorage.getItem(KEY)); return Object.keys(s).length || localStorage.getItem(KEY) ? s : defaults(); }
-function defaults(){
-  const s = {};
-  D.lists.forEach(l=>l.items.forEach(i=>{
-    if(i.id && i.done) s[i.id]=true;
-    (i.cells||[]).forEach(c=>{ if(c && c.x && c.v) s[c.x]=true; });
-  }));
-  return s;
-}
+function load(){ return safeParse(localStorage.getItem(KEY)); }
 function save(){ localStorage.setItem(KEY, JSON.stringify(state)); saveHub(); }
 function saveUi(){
   const l = currentList();
