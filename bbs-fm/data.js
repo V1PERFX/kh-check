@@ -14636,7 +14636,7 @@ window.KH_DATA = {
      "id": "commands-aqua:59",
      "cells": [
       "Energy Magnet",
-      "Command Melding (ex: Cure + Thundara)"
+      "Command Melding (ex: Cure + Magnera)"
      ],
      "done": false
     },
